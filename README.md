@@ -5,7 +5,12 @@
 <p> Phone : 010-9307-6514 📞</p>
 <p> VLOG :  <a href="https://blog.naver.com/hyony_lee"><img src="https://img.shields.io/badge/velog-'#20C997'?style=flat&logo=velog&logoColor=#20C997" /></a></p>
 <p> GitHub(Team) : <a href="https://github.com/JAVAJOProject/RuralCommunitiesActivity?tab=readme-ov-file#%EF%B8%8F%EC%9D%B4%ED%9A%A8%EC%9D%B8"><img src="https://img.shields.io/badge/github-black?style=flat&logo=github&logoColor=white" /></a></p>
-  
+<p> Portfolio-site : <a href="https://ssslee77g.github.io/portfolio/">link</a></p>
+<p> Figma(UI&UX) : <a href="https://www.figma.com/file/S7JfNevGagugPj4odQQ9SK/Final-Project-%
+EB%A9%94%EC%9D%B8-%ED%8E%98%EC%9D%B4%EC%A7%80-
+%EA%B0%80%EC%95%88?type=design&node-id=0%3A1&mode=desi
+gn&t=AYwdmko1wKHNirHW-1">figma</a></p>
+
 # Project
 <details>
 <summary>
