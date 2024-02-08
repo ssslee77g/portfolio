@@ -1,17 +1,15 @@
-# Portfolio
+# Portfolio :girl:
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Sunflower&weight=500&pause=1000&color=F7F7F7&background=FFC649&center=true&vCenter=true&random=false&width=800&height=60&lines=%EC%A6%90%EA%B2%81%EA%B2%8C+%EA%B0%9C%EB%B0%9C%ED%95%98%EB%8A%94+%EC%9D%B4%ED%9A%A8%EC%9D%B8%EC%9E%85%EB%8B%88%EB%8B%A4" alt="Typing SVG" /></a>
 
-<p>Email : ssslee79@gmail.com</p>
-<p> ● Phone : 010-9307-6514</p>
-<p> ● VLOG :  <a href="https://blog.naver.com/hyony_lee"><img src="https://img.shields.io/badge/velog-'#20C997'?style=flat&logo=velog&logoColor=#20C997" /></a></p>
-<p> ● GitHub : <img src="https://img.shields.io/badge/github-black?style=flat&logo=github&logoColor=white" /></p>
+<p> Email : ssslee79@gmail.com 📧 </p>
+<p> Phone : 010-9307-6514 📞</p>
+<p> VLOG :  <a href="https://blog.naver.com/hyony_lee"><img src="https://img.shields.io/badge/velog-'#20C997'?style=flat&logo=velog&logoColor=#20C997" /></a></p>
+<p> GitHub(Team) : <a href="https://github.com/JAVAJOProject/RuralCommunitiesActivity?tab=readme-ov-file#%EF%B8%8F%EC%9D%B4%ED%9A%A8%EC%9D%B8"><img src="https://img.shields.io/badge/github-black?style=flat&logo=github&logoColor=white" /></a></p>
   
-<p>GitHub(Team) : https://github.com/JAVAJOProject/RuralCommunitiesActivity?tab=readme-ov-file#%EF%B8%8F%EC%9D%B4%ED%9A%A8%EC%9D%B8</p>
-<P></P>
 # Project
 <details>
 <summary>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Eyes.png" alt="Eyes" width="2%" /> 내가 지금 배우는 ... 
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Eyes.png" alt="Eyes" width="2%" /> 프로젝트..
 </summary>
    <br>
   
