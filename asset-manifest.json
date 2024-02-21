@@ -1,21 +1,32 @@
 {
   "files": {
-    "main.css": "/static/css/main.7f8eb598.css",
-    "main.js": "/static/js/main.b243d49a.js",
+    "main.css": "/static/css/main.de745e8d.css",
+    "main.js": "/static/js/main.4b433ec6.js",
     "static/js/453.c3e8377a.chunk.js": "/static/js/453.c3e8377a.chunk.js",
-    "static/media/project-Portfolio.svg": "/static/media/project-Portfolio.01f039b643b92a2d95510af19bad1711.svg",
+    "static/media/project-Portfolio.svg": "/static/media/project-Portfolio.23eed463b8f444d53b1d0d15a5803e76.svg",
     "static/media/project-admin.svg": "/static/media/project-admin.143ff8e66c30851b84818c1295f649a5.svg",
+    "static/media/JQuery.svg": "/static/media/JQuery.c730cc3a3e3bde4a5643f2e26a4ded36.svg",
     "static/media/PeopleUp.svg": "/static/media/PeopleUp.aa51219f0e6d90b8181e35e9e787cc77.svg",
     "static/media/MainPeople.svg": "/static/media/MainPeople.966ff5ebc717e9f0fe290d6fb8235157.svg",
     "static/media/Me.svg": "/static/media/Me.dc9595aa2c710e1db1d9c325e352b956.svg",
+    "static/media/MySQL-Light.svg": "/static/media/MySQL-Light.1baf3273bad5f3b9714f0927cf7d8b3a.svg",
+    "static/media/Github-Dark.svg": "/static/media/Github-Dark.ac545114b938c2cab646130d25acb0fd.svg",
+    "static/media/Git.svg": "/static/media/Git.87d6e2a3383a582dd8d951daf9c95c04.svg",
+    "static/media/Java-Light.svg": "/static/media/Java-Light.76016987bb8232e257a6187980dab1cf.svg",
+    "static/media/React.svg": "/static/media/React.45e05858175d1edbb57051533007343c.svg",
+    "static/media/Spring-Light.svg": "/static/media/Spring-Light.2e50c40b11e1dd6e58065c21ae4c1e05.svg",
+    "static/media/VSCode-Dark.svg": "/static/media/VSCode-Dark.832fcc7f88399f79848f458bf495a30d.svg",
+    "static/media/Figma-Dark.svg": "/static/media/Figma-Dark.43a966c7509c1108379ffad1a8e06266.svg",
+    "static/media/CSS.svg": "/static/media/CSS.5fcd7f5683afc0fc6d0186a083262016.svg",
     "index.html": "/index.html",
+    "static/media/HTML.svg": "/static/media/HTML.ca0db580ffd74f086f2dc2a71dacd660.svg",
     "static/media/balloon.svg": "/static/media/balloon.7acdb10b0f8b5b6437a269751bd83fc4.svg",
-    "main.7f8eb598.css.map": "/static/css/main.7f8eb598.css.map",
-    "main.b243d49a.js.map": "/static/js/main.b243d49a.js.map",
+    "main.de745e8d.css.map": "/static/css/main.de745e8d.css.map",
+    "main.4b433ec6.js.map": "/static/js/main.4b433ec6.js.map",
     "453.c3e8377a.chunk.js.map": "/static/js/453.c3e8377a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7f8eb598.css",
-    "static/js/main.b243d49a.js"
+    "static/css/main.de745e8d.css",
+    "static/js/main.4b433ec6.js"
   ]
 }
