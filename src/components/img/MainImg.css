@@ -1,0 +1,98 @@
+.MainImg{
+    width: 100%;
+    height: 50rem;
+    text-align: center;
+    background: radial-gradient(50% 50% at 50% 50%, #DFEAFD 0%, #FFFFFF 100%);
+
+    font-family: 'Sunflower';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 60px;
+    color : #384663;
+}
+
+.imgBox {
+    display: inline-block;
+    position:absolute;
+}
+.imgEffect {
+    margin-left: -6rem;
+    animation: maineffect 2s forwards;
+    animation-delay: 1s;
+}
+.balloonBox {
+    display: inline-block;
+    position:absolute;
+    width: 17rem;
+    height: 15rem;
+    color: #384663;
+    font-size: 22px;
+    text-align: left;
+}
+.balloon{
+    margin-left: -6rem;
+}
+.balText1{
+    position: absolute;
+    top: 4.5rem;
+    left: 4rem;
+
+    white-space: nowrap;
+    animation: texteffect 2s steps(10) forwards;
+    overflow: hidden;
+}
+.balText2 {
+    position: absolute;
+    top: 6.5rem;
+    left: 4rem;
+    width: 0;
+
+    white-space: nowrap;
+    animation: texteffect 2s steps(20) forwards;
+    animation-delay: 1s;
+    overflow: hidden;
+}
+.balText3{
+    position: absolute;
+    top: 8.5rem;
+    left: 4rem;
+    width: 0;
+
+    white-space: nowrap;
+    animation: texteffect 2s steps(10) forwards;
+    animation-delay: 3s;
+    overflow: hidden;
+
+}
+/* .balText::before {
+    position: absolute;
+    content: "안녕하세요 Developer 이효인의 포트폴리오 입니다.";
+    font-size: 22px;
+    line-height: 2rem;
+    color: #384663;
+    width: 14rem;
+    height: 10rem;
+
+    animation: texteffect 2s steps(20, end) forwards;
+    overflow: hidden;
+    animation-delay: 1s;
+    animation-iteration-count: 3;
+    animation-timing-function: 2s;
+} */
+@keyframes maineffect {
+    from{
+        transform: translateX(0);
+    }
+    to{
+        transform: translateX(-10rem);
+    }
+  }
+
+@keyframes texteffect {
+    from{
+        width: 0%;
+    }
+    to{
+        width: 75%;
+    }
+  }

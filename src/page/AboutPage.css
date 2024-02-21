@@ -1,0 +1,15 @@
+.aboutLeft{
+    margin-top: 8rem;
+    margin-left: 23%;
+}
+.aboutLeft > img {
+    display: inline-block;
+}
+.aboutLeft > h4{
+    display: inline-block;
+    padding-left: 1rem;
+    
+}
+.pageLeft{
+    text-align: center;
+}
