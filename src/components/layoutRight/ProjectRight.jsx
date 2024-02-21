@@ -17,7 +17,7 @@ export default function ProjectRight({rightStyle,children}) {
         {rightStyle ? <div></div> : <Button type='category' text='Project' />}
           <Box 
             boxData={projectData} 
-            style={{width: '20rem'}}
+            style={{width: '14rem'}}
             rStyle={rightStyle && {justifyContent: 'left'}}/>
       </div>
     </Layout>

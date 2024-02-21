@@ -1,13 +1,13 @@
 .MainImg{
     width: 100%;
-    height: 50rem;
+    height: 40rem;
     text-align: center;
     background: radial-gradient(50% 50% at 50% 50%, #DFEAFD 0%, #FFFFFF 100%);
 
     font-family: 'Sunflower';
     font-style: normal;
     font-weight: 700;
-    font-size: 60px;
+    font-size: 48px;
     color : #384663;
 }
 
@@ -16,7 +16,8 @@
     position:absolute;
 }
 .imgEffect {
-    margin-left: -6rem;
+    width: 10rem;
+    margin-left: -3rem;
     animation: maineffect 2s forwards;
     animation-delay: 1s;
 }
@@ -26,16 +27,17 @@
     width: 17rem;
     height: 15rem;
     color: #384663;
-    font-size: 22px;
+    font-size: 15px;
     text-align: left;
 }
 .balloon{
     margin-left: -6rem;
+    width: 18rem;
 }
 .balText1{
     position: absolute;
-    top: 4.5rem;
-    left: 4rem;
+    top: 3rem;
+    left: 1.5rem;
 
     white-space: nowrap;
     animation: texteffect 2s steps(10) forwards;
@@ -43,8 +45,8 @@
 }
 .balText2 {
     position: absolute;
-    top: 6.5rem;
-    left: 4rem;
+    top: 5rem;
+    left: 1.5rem;
     width: 0;
 
     white-space: nowrap;
@@ -54,8 +56,8 @@
 }
 .balText3{
     position: absolute;
-    top: 8.5rem;
-    left: 4rem;
+    top: 7rem;
+    left: 1.5rem;
     width: 0;
 
     white-space: nowrap;

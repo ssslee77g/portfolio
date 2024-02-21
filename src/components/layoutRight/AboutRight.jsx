@@ -20,8 +20,8 @@ export default function AboutRight({rightStyle,children}) {
       className={rightStyle ? 'right' : 'aboutMain'}>
       <Button type='category' text='About' /><br /><br />
       <div className='aboutText'>
-        <h1>{title}</h1>
-        <h2>{sub}</h2>
+        <h2>{title}</h2>
+        <h3>{sub}</h3>
         <h5>{contents}</h5>
       </div>
     </div>

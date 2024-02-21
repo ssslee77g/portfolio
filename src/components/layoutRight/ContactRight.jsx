@@ -15,11 +15,12 @@ export default function ContactRight({rightStyle,children}) {
     <Layout>
       {children}
       <div
-        className={rightStyle ? 'right' : 'aboutMain'}>
+        className={rightStyle ? 'right' : 'aboutMain'}
+        style={{left: '8rem'}}>
         {rightStyle ? <div></div> : <Button type='category' text='Contact' />}
         <ContactBox 
           data={contactData}
-          rStyle={rightStyle && {justifyContent: 'left'}} />
+          rStyle={rightStyle && {justifyContent: 'left', textAlign: 'center'}} />
       </div>
     </Layout>
   )

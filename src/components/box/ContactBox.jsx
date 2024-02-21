@@ -15,14 +15,15 @@ export default function ContactBox({data, rStyle}) {
       case 'Github' : window.open(github,'f'); break;
       case 'Email' : window.open(email,'f'); break;
       default : console.log('notFound');
-    }
+    } 
   };
 
   return (
     <div 
     className='boxContainer'
     style={rStyle}>
-      <div className='box' >
+      <div className='box' 
+        style={{width: '12rem'}}>
         {data.map((item, index) => (
             <div key={index}>
                 <div className='contactBox'>

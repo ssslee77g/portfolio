@@ -1,5 +1,5 @@
 .main {
-    width: 80px;
+    width: 70px;
     height: 25px;
     display: inline-block;
     background: #FFFFFF;
@@ -13,6 +13,9 @@
     font-weight: 500;
     color: #385F78;
     &:hover {
+        color: #FBB205;
+    }
+    &:checked {
         color: #FBB205;
     }
     /* 385F78   FBB205 */

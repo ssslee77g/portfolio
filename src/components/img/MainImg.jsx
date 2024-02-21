@@ -15,9 +15,9 @@ export default function MainImg() {
 
   return (
     <div className='MainImg'>
-        <p className='portfolio'>PORTFOLIO</p>
+        <p>PORTFOLIO</p>
         <div className='imgBox'>
-            <img className='imgEffect' src={MainPeople} alt='people' />
+            <img className='imgEffect' src={MainPeople} alt='people'/>
         </div>
         <div className='balloonBox'>
             {balloon &&<div>

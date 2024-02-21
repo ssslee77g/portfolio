@@ -11,7 +11,7 @@ export default function AboutPage() {
     <AboutRight rightStyle='1'>
       <LayoutLeft>
         <div className='aboutLeft'>
-          <img src={Me} alt='img' />
+          <img src={Me} alt='img' width='100rem'/>
           <h4>Developer<br/>이효인</h4>
         </div>
       </LayoutLeft>
