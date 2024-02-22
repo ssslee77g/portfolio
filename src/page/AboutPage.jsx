@@ -2,7 +2,7 @@ import React from 'react'
 import './AboutPage.css';
 import LayoutLeft from '../components/bar/LayoutLeft';
 import LayoutBar from '../components/bar/LayoutBar';
-import Me from '../img/Me.svg';
+import Me from '../img/MeDark.svg';
 import AboutRight from '../components/layoutRight/AboutRight';
 
 export default function AboutPage() {
