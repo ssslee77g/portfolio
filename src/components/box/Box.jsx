@@ -19,16 +19,18 @@ import Figma from '../../img/skill/Figma-Dark.svg';
 
 
 
-export default function Box({boxData, style, rStyle}) {
+export default function Box({boxData, style, rStyle, clickLink}) {
 
-    console.log(boxData);
   return (
     <div 
       className='boxContainer'
       style={rStyle}>
-    {boxData.map((item, index) => (
-        <div className='box' key={index}
-          style={style}>
+    {boxData && boxData.map((item, index) => (
+        <div 
+          className='box'
+          key={index}
+          style={style}
+          onClick={(event) => clickLink(event, item.num)}>
             <div>
               <h3>{item.header}</h3>
               {item.type === 'skill' ? '' : <p>{item.text}</p>}

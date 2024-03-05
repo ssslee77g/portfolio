@@ -12,6 +12,9 @@ import SkillPage from './page/SkillPage';
 import ProjectPage from './page/ProjectPage';
 import ContactPage from './page/ContactPage';
 import Background from './page/Background';
+
+import ProjectDetailPage from './page/project/ProjectDetailPage';
+
 const router = createBrowserRouter([
   {
     path: '/',
@@ -36,6 +39,10 @@ const router = createBrowserRouter([
       {
         path: 'project',
         element: <ProjectPage />,
+      },
+      {
+        path: 'detail/:num',
+        element: <ProjectDetailPage />,
       },
       {
         path: 'contact',
