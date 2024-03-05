@@ -1,11 +1,21 @@
 {
   "files": {
     "main.css": "/static/css/main.de745e8d.css",
-    "main.js": "/static/js/main.55ece018.js",
+    "main.js": "/static/js/main.0ff73b1b.js",
     "static/js/453.c3e8377a.chunk.js": "/static/js/453.c3e8377a.chunk.js",
     "static/media/project-Portfolio.svg": "/static/media/project-Portfolio.23eed463b8f444d53b1d0d15a5803e76.svg",
     "static/media/MeDark.svg": "/static/media/MeDark.cc84672df5df271984a827707364cde0.svg",
+    "static/media/Main.png": "/static/media/Main.977a60d3d45690ee3ee7.png",
     "static/media/project-admin.svg": "/static/media/project-admin.143ff8e66c30851b84818c1295f649a5.svg",
+    "static/media/Dashboard.png": "/static/media/Dashboard.c8ad6ff1ad108e7ad026.png",
+    "static/media/Project.png": "/static/media/Project.ebd39ca7ed0cebbc5c28.png",
+    "static/media/ActivityList.png": "/static/media/ActivityList.69c3b66ec34f0f5430ea.png",
+    "static/media/AboutMe.png": "/static/media/AboutMe.bf7be96bb3b20ac730f2.png",
+    "static/media/Insert.png": "/static/media/Insert.60a1025770748cfc3ed4.png",
+    "static/media/Skill.png": "/static/media/Skill.d3f5a11c0c184f6a3e6f.png",
+    "static/media/MemberList.png": "/static/media/MemberList.d5bcc5dad9fff4b9f056.png",
+    "static/media/InquiryList.png": "/static/media/InquiryList.e3d29256914e23401b7e.png",
+    "static/media/Contact.png": "/static/media/Contact.2df708c5b976c57e9e10.png",
     "static/media/JQuery.svg": "/static/media/JQuery.c730cc3a3e3bde4a5643f2e26a4ded36.svg",
     "static/media/PeopleUp.svg": "/static/media/PeopleUp.aa51219f0e6d90b8181e35e9e787cc77.svg",
     "static/media/MainPeople.svg": "/static/media/MainPeople.966ff5ebc717e9f0fe290d6fb8235157.svg",
@@ -22,11 +32,11 @@
     "static/media/HTML.svg": "/static/media/HTML.ca0db580ffd74f086f2dc2a71dacd660.svg",
     "static/media/balloon.svg": "/static/media/balloon.7acdb10b0f8b5b6437a269751bd83fc4.svg",
     "main.de745e8d.css.map": "/static/css/main.de745e8d.css.map",
-    "main.55ece018.js.map": "/static/js/main.55ece018.js.map",
+    "main.0ff73b1b.js.map": "/static/js/main.0ff73b1b.js.map",
     "453.c3e8377a.chunk.js.map": "/static/js/453.c3e8377a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.de745e8d.css",
-    "static/js/main.55ece018.js"
+    "static/js/main.0ff73b1b.js"
   ]
 }
