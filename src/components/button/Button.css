@@ -23,7 +23,9 @@
 }
 .category {
     display: inline-block;
-    min-width: 4.5rem;
+    /* min-width: 5rem; */
+    padding-left: 0.5rem;
+    padding-right: 0.5rem;
     background: #FBB205;
     border: 2px solid #FBB205;
     box-shadow: 2px 2px 10px #D1E1FF;

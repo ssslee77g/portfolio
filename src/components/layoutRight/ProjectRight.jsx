@@ -25,7 +25,7 @@ const projectData = [
       {children}
       <div
         className={rightStyle ? 'right' : 'aboutMain'}>
-        {rightStyle ? <div></div> : <Button type='category' text='Project' />}
+        {rightStyle ? <div></div> : <Button type='category' text='PROJECT' />}
           <Box 
             boxData={projectData} 
             style={{width: '14rem'}}

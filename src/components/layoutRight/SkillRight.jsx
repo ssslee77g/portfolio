@@ -14,7 +14,7 @@ export default function SkillRight({rightStyle,children}) {
     <Layout>
       {children}
       <div className={rightStyle ? 'right' : 'aboutMain'}>
-      {rightStyle ? <div></div> : <Button type='category' text='Skill' />}
+      {rightStyle ? <div></div> : <Button type='category' text='SKILL' />}
         <Box 
           boxData={skillData}
           rStyle={rightStyle && {justifyContent: 'left', textAlign: 'center'}}/>
